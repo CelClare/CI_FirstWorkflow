@@ -1,2 +1,3 @@
-# CI_FirstWorkflow
-Intégration Continue avec Github Actions 01 - Exécuter les tests automatisés à chaque push
+# Quest 1729
+
+Launch the app with the following command: `docker-compose -f docker-compose.dev.yml up --build`
